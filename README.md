@@ -11,15 +11,16 @@ Some remarks:
 
 Figures in the paper correspond to the code as follows:
 
-- Figure 2 up to panel (b) is produced by ```Ideal/u_ideal.nb```. Up to panel (a) with n=4 and panel (b) with n=100
-- Figure 2 panel (c) is produced by ```Ideal/u_ideal_TV.nb```
-- Figure 2 panel (d) is produced by ```Ideal/u_ideal_mismatch.nb```
-- Figure 3 up to panel (b) is produced by ```Hebbian/u_hebbian.nb```. Up to panel (a) with n=4 and panel (b) with n=100
-- Figure 3 panel (c) is produced by ```Hebbian/u_hebbian_TV.nb```
-- Figure 4 is produced by ```Ideal_implementation/Ideal_Implementation_Synchronization.nb```. Up to panel (a) with n=4 and panel (b) with n=100
-- Figure 5 is produced by ```Hebbian_implementation/Hebbian_Implementation_Synchronization.nb```. Up to panel (a) with n=4 and panel (b) with n=100
-- Figure 6 is produced by ```Ideal_implementation/Ideal_Implementation.nb```. Up to panel (a) with n=4 and panel (b) with n=100
-- Figure 7 is produced by ```Hebbian_implementation/Hebbian_Implementation.nb```. Up to panel (a) with n=4 and panel (b) with n=100
-- Figure 8 is produced by ```Ideal_implementation/Ideal_Implementation_TV.nb```. Up to panel (a) with n=4 and panel (b) with n=100
-- Figure 9 is produced by ```Hebbian_implementation/Hebbian_Implementation_TV.nb```. Up to panel (a) with n=4 and panel (b) with n=100
+- Figure 2 up to panel (b) is produced by ```Ideal/u_ideal.nb```. Up to panel (a) with n=4 and panel (b) with n=100.
+- Figure 2 panel (c) is produced by ```Ideal/u_ideal_TV.nb```.
+- Figure 2 panel (d) is produced by ```Ideal/u_ideal_mismatch.nb```.
+- Figure 3 up to panel (b) is produced by ```Hebbian/u_hebbian.nb```. Up to panel (a) with n=4 and panel (b) with n=100.
+- Figure 3 panel (c) is produced by ```Hebbian/u_hebbian_TV.nb```.
+- Figure 4 is produced by ```Ideal_implementation/Ideal_Implementation_Synchronization.nb```. Up to panel (a) with n=4 and panel (b) with n=100.
+- Figure 5 is produced by ```Hebbian_implementation/Hebbian_Implementation_Synchronization.nb```. Up to panel (a) with n=4 and panel (b) with n=100.
+- Figure 6 is produced by ```Ideal_implementation/Ideal_Implementation.nb```. Up to panel (a) with n=4 and panel (b) with n=100.
+- Figure 7 is produced by ```Hebbian_implementation/Hebbian_Implementation.nb```. Up to panel (a) with n=4 and panel (b) with n=100.
+- Figure 8 is produced by ```Ideal_implementation/Ideal_Implementation_TV.nb```. Up to panel (a) with n=4 and panel (b) with n=100.
+- Figure 9 is produced by ```Hebbian_implementation/Hebbian_Implementation_TV.nb```. Up to panel (a) with n=4 and panel (b) with n=100.
     
+Comments, questions and suggestions are welcome at ```h.jardon.kojakhmetov@rug.nl```.
