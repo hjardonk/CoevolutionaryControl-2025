@@ -1,26 +1,32 @@
-This repository contains the Mathematica code for the figures appearing in the article
+# Mathematica Code for "Co-evolutionary Control of a Class of Mixed-Feedback Systems"
 
-"Co-evolutionary control of a class of mixed-feedback systems" (arxiv link will appear here when available)
+This repository contains the Mathematica code used to generate the figures in the article:
 
-by: L. Venegas, H. Jardón-Kojakhmetov and M. Cao.
+**"Co-evolutionary Control of a Class of Mixed-Feedback Systems"**  
+*(Arxiv link will appear here when available)*  
 
-Some remarks:
+Authors: **L. Venegas, H. Jardón-Kojakhmetov, and M. Cao**
 
-- Make sure to run each code on a clean kernel.
-- In all codes, the main parameter is n, the number of nodes.
+## 📌 Notes & Usage
+- Ensure you **run each code on a clean kernel** to avoid unintended variable dependencies.
+- The **main parameter** in all scripts is `n`, corresponding to the number of nodes.
+- The figures in the paper are produced according to the following code files:
 
-Figures in the paper correspond to the code as follows:
+## 📊 Figure-Code Correspondence
+| Figure | File | Parameter Settings |
+|--------|---------------------------------|----------------|
+| **Figure 2** (up to panel b) | `Ideal/u_ideal.nb` | (a) `n = 4`, (b) `n = 100` |
+| **Figure 2** (panel c) | `Ideal/u_ideal_TV.nb` | - |
+| **Figure 2** (panel d) | `Ideal/u_ideal_mismatch.nb` | - |
+| **Figure 3** (up to panel b) | `Hebbian/u_hebbian.nb` | (a) `n = 4`, (b) `n = 100` |
+| **Figure 3** (panel c) | `Hebbian/u_hebbian_TV.nb` | - |
+| **Figure 4** | `Ideal_implementation/Ideal_Implementation_Synchronization.nb` | (a) `n = 4`, (b) `n = 100` |
+| **Figure 5** | `Hebbian_implementation/Hebbian_Implementation_Synchronization.nb` | (a) `n = 4`, (b) `n = 100` |
+| **Figure 6** | `Ideal_implementation/Ideal_Implementation.nb` | (a) `n = 4`, (b) `n = 100` |
+| **Figure 7** | `Hebbian_implementation/Hebbian_Implementation.nb` | (a) `n = 4`, (b) `n = 100` |
+| **Figure 8** | `Ideal_implementation/Ideal_Implementation_TV.nb` | (a) `n = 4`, (b) `n = 100` |
+| **Figure 9** | `Hebbian_implementation/Hebbian_Implementation_TV.nb` | (a) `n = 4`, (b) `n = 100` |
 
-- Figure 2 up to panel (b) is produced by ```Ideal/u_ideal.nb```. Up to panel (a) with n=4 and panel (b) with n=100.
-- Figure 2 panel (c) is produced by ```Ideal/u_ideal_TV.nb```.
-- Figure 2 panel (d) is produced by ```Ideal/u_ideal_mismatch.nb```.
-- Figure 3 up to panel (b) is produced by ```Hebbian/u_hebbian.nb```. Up to panel (a) with n=4 and panel (b) with n=100.
-- Figure 3 panel (c) is produced by ```Hebbian/u_hebbian_TV.nb```.
-- Figure 4 is produced by ```Ideal_implementation/Ideal_Implementation_Synchronization.nb```. Up to panel (a) with n=4 and panel (b) with n=100.
-- Figure 5 is produced by ```Hebbian_implementation/Hebbian_Implementation_Synchronization.nb```. Up to panel (a) with n=4 and panel (b) with n=100.
-- Figure 6 is produced by ```Ideal_implementation/Ideal_Implementation.nb```. Up to panel (a) with n=4 and panel (b) with n=100.
-- Figure 7 is produced by ```Hebbian_implementation/Hebbian_Implementation.nb```. Up to panel (a) with n=4 and panel (b) with n=100.
-- Figure 8 is produced by ```Ideal_implementation/Ideal_Implementation_TV.nb```. Up to panel (a) with n=4 and panel (b) with n=100.
-- Figure 9 is produced by ```Hebbian_implementation/Hebbian_Implementation_TV.nb```. Up to panel (a) with n=4 and panel (b) with n=100.
-    
-Comments, questions and suggestions are welcome at ```h.jardon.kojakhmetov@rug.nl```.
+## 📩 Questions & Contact
+For questions, comments, or suggestions, feel free to reach out at:  
+📧 **h.jardon.kojakhmetov@rug.nl**
