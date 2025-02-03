@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Co-evolutionary control of a class of coupled
+  mixed-feedback systems
+message: Mathematica code for generating the paper's figures
+type: software
+authors:
+  - given-names: Hildeberto
+    family-names: Jardón-Kojakhmetov
+    email: h.jardon.kojakhmetov@rug.nl
+    affiliation: University of Groningen
+    orcid: 'https://orcid.org/0000-0001-8708-7409'
+license: MIT
