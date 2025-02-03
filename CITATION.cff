@@ -3,8 +3,8 @@
 
 cff-version: 1.2.0
 title: >-
-  Co-evolutionary control of a class of coupled
-  mixed-feedback systems
+  Code for `Co-evolutionary control of a class of coupled
+  mixed-feedback systems'
 message: Mathematica code for generating the paper's figures
 type: software
 authors:
@@ -15,4 +15,5 @@ authors:
     orcid: 'https://orcid.org/0000-0001-8708-7409'
 repository-code: 'https://github.com/hjardonk/CoevolutionaryControl-2025'
 license: MIT
+date-released: '2025-02-03'
 
