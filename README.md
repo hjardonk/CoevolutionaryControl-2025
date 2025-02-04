@@ -7,8 +7,8 @@ This repository contains the Mathematica code used to generate the figures in th
 
 Authors: **L. Venegas, H. Jardón-Kojakhmetov, and M. Cao**
 
-## 📌 Notes & Usage
-- Ensure you **run each code on a clean kernel** to avoid unintended variable dependencies.
+## Notes & Usage
+- Ensure you **run each code on a clean kernel**.
 - The **main parameter** in all scripts is `n`, corresponding to the number of nodes.
 - The figures in the paper are produced according to the following code files:
 
