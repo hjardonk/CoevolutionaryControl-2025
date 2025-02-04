@@ -12,7 +12,7 @@ Authors: **L. Venegas, H. Jardón-Kojakhmetov, and M. Cao**
 - The **main parameter** in all scripts is `n`, corresponding to the number of nodes.
 - The figures in the paper are produced according to the following code files:
 
-## 📊 Figure-Code Correspondence
+## Figure-Code Correspondence
 | Figure | File | Parameter Settings |
 |--------|---------------------------------|----------------|
 | **Figure 2** (up to panel b) | `Ideal/u_ideal.nb` | (a) `n = 4`, (b) `n = 100` |
@@ -27,6 +27,5 @@ Authors: **L. Venegas, H. Jardón-Kojakhmetov, and M. Cao**
 | **Figure 8** | `Ideal_implementation/Ideal_Implementation_TV.nb` | (a) `n = 4`, (b) `n = 100` |
 | **Figure 9** | `Hebbian_implementation/Hebbian_Implementation_TV.nb` | (a) `n = 4`, (b) `n = 100` |
 
-## 📩 Questions & Contact
-For questions, comments, or suggestions, feel free to reach out at:  
-📧 **h.jardon.kojakhmetov@rug.nl**
+## Questions & Contact
+For questions, comments, or suggestions, feel free to contact me at:  **h.jardon.kojakhmetov@rug.nl**
