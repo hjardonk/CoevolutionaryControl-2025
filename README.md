@@ -3,7 +3,7 @@
 This repository contains the Mathematica code used to generate the figures in the article:
 
 **"Co-evolutionary Control of a Class of Mixed-Feedback Systems"**  
-*(Arxiv link will appear here when available)*  
+*(https://arxiv.org/abs/2410.19857)*  
 
 Authors: **L. Venegas, H. Jardón-Kojakhmetov, and M. Cao**
 
